@@ -1,0 +1,4 @@
+<launch>
+  <node name="imu_data_publisher" pkg="imu_test" type="ros_node_imu.py" output="screen"/>
+  
+</launch>
